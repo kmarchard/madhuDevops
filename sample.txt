@@ -1,2 +1,6 @@
 Hello World
+<<<<<<< HEAD
 Updated through ec2 instance
+=======
+updated through git gub
+>>>>>>> 8315450f7c187cc13f4507464cc36b25640e9d74
