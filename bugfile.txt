@@ -1,1 +1,2 @@
-this is bugfix line1
+this is bugfix line
+this is line2 of bugfix line2
