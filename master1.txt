@@ -1,1 +1,2 @@
-this is master1 file
+this is master1 fil
+this is line2 of the master file2
